@@ -1,3 +1,7 @@
 *.pem
 creds.py
 __pycache__/
+
+
+
+#Get the rds to work which is basically the database and show it doing something that will work and can use the Database.
